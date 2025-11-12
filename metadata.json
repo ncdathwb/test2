@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Text-to-Speech",
+  "description": "A web application that uses the Gemini API to convert text into natural-sounding speech. Users can input text, select a voice, and listen to the generated audio.",
+  "requestFramePermissions": []
+}
